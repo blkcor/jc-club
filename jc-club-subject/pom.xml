@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <groupId>me.blkcor</groupId>
+  <artifactId>jc-club-subject</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <description>鸡翅club-题目领域服务</description>
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <modules>
+    <module>jc-club-api</module>
+    <module>jc-club-application</module>
+    <module>jc-club-domain</module>
+    <module>jc-club-common</module>
+    <module>jc-club-infra</module>
+    <module>jc-club-starter</module>
+  </modules>
+
+</project>
