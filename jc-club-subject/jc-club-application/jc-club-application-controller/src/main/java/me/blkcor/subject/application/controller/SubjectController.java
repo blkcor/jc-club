@@ -1,10 +1,10 @@
 package me.blkcor.subject.application.controller;
 
+import jakarta.annotation.Resource;
 import me.blkcor.subject.infra.basic.service.SubjectCategoryService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import javax.annotation.Resource;
 
 @RestController
 public class SubjectController {

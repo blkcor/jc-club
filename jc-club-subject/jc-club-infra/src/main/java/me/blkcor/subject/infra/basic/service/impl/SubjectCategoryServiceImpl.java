@@ -1,11 +1,11 @@
 package me.blkcor.subject.infra.basic.service.impl;
 
+import jakarta.annotation.Resource;
 import me.blkcor.subject.infra.basic.entity.SubjectCategory;
 import me.blkcor.subject.infra.basic.mapper.SubjectCategoryDao;
 import me.blkcor.subject.infra.basic.service.SubjectCategoryService;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
 
 
 /**
