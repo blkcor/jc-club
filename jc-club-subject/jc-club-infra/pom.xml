@@ -12,6 +12,11 @@
     <artifactId>jc-club-infra</artifactId>
 
     <dependencies>
+        <dependency>
+            <groupId>me.blkcor</groupId>
+            <artifactId>jc-club-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <!-- jdbc -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
