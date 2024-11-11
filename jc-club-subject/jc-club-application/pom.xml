@@ -17,5 +17,11 @@
         <module>jc-club-application-mq</module>
     </modules>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>me.blkcor</groupId>
+            <artifactId>jc-club-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
